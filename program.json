@@ -82,6 +82,7 @@
     "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB": "Meteora Pools Program",
     "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi": "Meteora Vault Program",
     "5B23C376Kwtd1vzb5LCJHiHLPnoWSnnx661hhGGDEv8y": "Mercurial Dynamic AMM",
+    "GDDMwNyyx8uB6zrqwBFHjLLG3TBYk2F8Az4yrQC5RzMp": "Sequence Enforcer",
 
     "66pJhhESDjdeBBDdkKmxYYd7q6GUggYPWjxpMKNX39KV": "Ukraine Donation Fund",
     
@@ -98,5 +99,6 @@
     "BPFLoader1111111111111111111111111111111111": "BPF Loader",
     "BPFLoader2111111111111111111111111111111111": "BPF Loader 2",
     "SysvarRewards111111111111111111111111111111": "Sysvar: Rewards",
-    "SysvarStakeHistory1111111111111111111111111": "Sysvar: Stake History"
+    "SysvarStakeHistory1111111111111111111111111": "Sysvar: Stake History",
+    "ComputeBudget111111111111111111111111111111": "Compute Budget"
 }
